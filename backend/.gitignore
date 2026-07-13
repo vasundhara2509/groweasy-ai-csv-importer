@@ -1,21 +1,22 @@
-# Dependencies
+# Node Modules
 node_modules/
+**/node_modules/
 
 # Next.js
 .next/
-out/
+**/.next/
 
-# Environment variables
+# Environment
 .env
 .env.local
+
+# Build
+dist/
+build/
 
 # Logs
 npm-debug.log*
 
-# Build folders
-dist/
-build/
-
-# OS files
+# OS
 .DS_Store
 Thumbs.db
