@@ -1,0 +1,101 @@
+Name,Company,Email,Phone,Industry,Location
+Priya Mehta,AgroTech,priya.mehta856@agrotech.com,9264539233,Retail,Chennai
+Abhishek Gupta,AgroTech,abhishek.gupta894@agrotech.com,9137416627,Agriculture,Hubli
+Anil Patil,DataBridge,anil.patil271@databridge.com,9331359583,Manufacturing,Mumbai
+Komal Jain,Prime Solutions,komal.jain862@prime.com,9866284739,Energy,Hyderabad
+Tanvi Mehta,AgroTech,tanvi.mehta454@agrotech.com,9443019987,Retail,Hubli
+Yash Verma,Prime Solutions,yash.verma481@prime.com,9582072352,Energy,Indore
+Aditi Joshi,Prime Solutions,aditi.joshi831@prime.com,9102252731,Manufacturing,Ahmedabad
+Simran Joshi,BlueOcean,simran.joshi273@blueocean.com,9672942869,Education,Gurgaon
+Ishita Singh,TechNova Solutions,ishita.singh921@technova.com,9357385511,Logistics,Pune
+Riya Rao,EduSmart,riya.rao799@edusmart.com,9401247866,E-commerce,Nagpur
+Neha Jain,TechNova Solutions,neha.jain756@technova.com,9017189223,AI,Gurgaon
+Sneha Naik,VisionSoft,sneha.naik255@visionsoft.com,9984476441,Software,Hubli
+Aditi Kumar,FutureTech,aditi.kumar906@futuretech.com,9843734534,E-commerce,Bangalore
+Riya Desai,AgroTech,riya.desai417@agrotech.com,9472721633,Energy,Pune
+Sneha Patel,CloudNest,sneha.patel71@cloudnest.com,9113424185,Energy,Kolkata
+Shruti Malhotra,AIWorks,shruti.malhotra180@aiworks.com,9644277703,AI,Lucknow
+Meera Patel,SmartRetail,meera.patel141@smartretail.com,9595802449,Energy,Mysore
+Manish Desai,AIWorks,manish.desai920@aiworks.com,9014546451,Logistics,Surat
+Deepak Mehta,RetailHub,deepak.mehta703@retailhub.com,9800263705,Energy,Lucknow
+Anil Chopra,DataBridge,anil.chopra307@databridge.com,9313568969,Retail,Indore
+Tanvi Singh,FinEdge Capital,tanvi.singh416@finedge.com,9249486936,Finance,Lucknow
+Tanvi Kulkarni,FutureTech,tanvi.kulkarni609@futuretech.com,9164643298,Healthcare,Mysore
+Rohan Kumar,GreenEnergy,rohan.kumar251@greenenergy.com,9896511337,Finance,Surat
+Priya Chopra,Prime Solutions,priya.chopra159@prime.com,9759853969,Agriculture,Vijayapura
+Varun Kulkarni,AgroTech,varun.kulkarni94@agrotech.com,9943099052,Agriculture,Hyderabad
+Arjun Verma,SmartRetail,arjun.verma850@smartretail.com,9655460595,Retail,Bangalore
+Tanvi Patel,AIWorks,tanvi.patel3@aiworks.com,9233709017,Healthcare,Jaipur
+Aakash Malhotra,EduSmart,aakash.malhotra30@edusmart.com,9784999000,E-commerce,Surat
+Sonal Malhotra,FinEdge Capital,sonal.malhotra495@finedge.com,9686376287,Finance,Mysore
+Abhishek Kulkarni,BlueOcean,abhishek.kulkarni809@blueocean.com,9394115608,Retail,Delhi
+Varun Malhotra,HealthSync,varun.malhotra616@healthsync.com,9644276709,Cybersecurity,Mumbai
+Meera Naik,CloudNest,meera.naik53@cloudnest.com,9697115707,Software,Mumbai
+Komal Patel,FutureTech,komal.patel826@futuretech.com,9940790207,AI,Pune
+Sonal Mehta,AgroTech,sonal.mehta436@agrotech.com,9004686906,AI,Kochi
+Bhavna Nair,SmartRetail,bhavna.nair703@smartretail.com,9119116518,E-commerce,Ahmedabad
+Rohan Patel,BlueOcean,rohan.patel617@blueocean.com,9674944660,Agriculture,Noida
+Bhavna Verma,TechNova Solutions,bhavna.verma817@technova.com,9489049894,Agriculture,Vijayapura
+Aarav Patil,CyberSecure,aarav.patil494@cybersecure.com,9037233606,Retail,Mysore
+Simran Patel,CloudNest,simran.patel64@cloudnest.com,9608339912,Healthcare,Hyderabad
+Bhavna Jain,SmartRetail,bhavna.jain9@smartretail.com,9674673871,Logistics,Chennai
+Karan Shetty,CodeCraft,karan.shetty506@codecraft.com,9449422266,E-commerce,Pune
+Arjun Singh,AgroTech,arjun.singh29@agrotech.com,9827688681,Healthcare,Ahmedabad
+Vikram Sharma,BlueOcean,vikram.sharma178@blueocean.com,9295587891,E-commerce,Indore
+Sanjay Patel,RetailHub,sanjay.patel475@retailhub.com,9768403532,AI,Belagavi
+Varun Patel,VisionSoft,varun.patel704@visionsoft.com,9052688071,E-commerce,Mysore
+Ananya Singh,InnovateX,ananya.singh492@innovatex.com,9687611890,Cybersecurity,Hyderabad
+Priya Nair,HealthSync,priya.nair539@healthsync.com,9776684374,Education,Pune
+Ishita Desai,CloudNest,ishita.desai989@cloudnest.com,9576049767,Cybersecurity,Hubli
+Rahul Kulkarni,CyberSecure,rahul.kulkarni424@cybersecure.com,9614393432,Logistics,Belagavi
+Yash Chopra,InnovateX,yash.chopra245@innovatex.com,9956651413,Manufacturing,Jaipur
+Ishita Verma,RetailHub,ishita.verma112@retailhub.com,9088025432,Software,Mumbai
+Abhishek Kulkarni,CyberSecure,abhishek.kulkarni127@cybersecure.com,9276367472,Logistics,Kolkata
+Nikhil Kumar,NextGen Systems,nikhil.kumar684@nextgen.com,9494582022,Cybersecurity,Pune
+Madhuri Patel,AgroTech,madhuri.patel482@agrotech.com,9568271416,Energy,Gurgaon
+Vikram Kulkarni,InnovateX,vikram.kulkarni14@innovatex.com,9510456915,Manufacturing,Kochi
+Kavya Naik,EduSmart,kavya.naik63@edusmart.com,9684261527,Logistics,Delhi
+Madhuri Singh,NextGen Systems,madhuri.singh3@nextgen.com,9787668381,Logistics,Jaipur
+Pooja Kumar,CyberSecure,pooja.kumar264@cybersecure.com,9740950859,AI,Noida
+Swati Mehta,Prime Solutions,swati.mehta158@prime.com,9931355465,Manufacturing,Delhi
+Arjun Patil,TechNova Solutions,arjun.patil597@technova.com,9627163136,Logistics,Ahmedabad
+Aditya Rao,FutureTech,aditya.rao960@futuretech.com,9898412892,E-commerce,Kolkata
+Abhishek Kulkarni,AIWorks,abhishek.kulkarni135@aiworks.com,9097361539,Manufacturing,Kochi
+Riya Mehta,SmartRetail,riya.mehta508@smartretail.com,9798258047,Education,Gurgaon
+Aarav Patel,CloudNest,aarav.patel507@cloudnest.com,9399167498,Software,Nagpur
+Simran Shetty,CodeCraft,simran.shetty307@codecraft.com,9098147344,Healthcare,Delhi
+Simran Naik,CyberSecure,simran.naik921@cybersecure.com,9211806419,Retail,Belagavi
+Swati Singh,Prime Solutions,swati.singh45@prime.com,9681951698,Education,Vijayapura
+Rohan Verma,InnovateX,rohan.verma889@innovatex.com,9655875661,Education,Surat
+Varun Jain,DataBridge,varun.jain674@databridge.com,9095884173,Retail,Kochi
+Ananya Kumar,InnovateX,ananya.kumar975@innovatex.com,9364424370,Healthcare,Nagpur
+Madhuri Chopra,RetailHub,madhuri.chopra448@retailhub.com,9431803480,Cybersecurity,Gurgaon
+Karan Nair,InnovateX,karan.nair236@innovatex.com,9128210017,Agriculture,Indore
+Harsh Reddy,NextGen Systems,harsh.reddy499@nextgen.com,9823005304,Energy,Hyderabad
+Suresh Malhotra,FutureTech,suresh.malhotra137@futuretech.com,9795434342,Finance,Pune
+Neha Kulkarni,TechNova Solutions,neha.kulkarni406@technova.com,9049656740,Retail,Noida
+Sonal Joshi,AgroTech,sonal.joshi714@agrotech.com,9553741399,Cybersecurity,Belagavi
+Aditya Kumar,CyberSecure,aditya.kumar664@cybersecure.com,9150827669,E-commerce,Gurgaon
+Swati Reddy,CloudNest,swati.reddy610@cloudnest.com,9678402466,Logistics,Mysore
+Sneha Mehta,AIWorks,sneha.mehta57@aiworks.com,9310826023,Finance,Ahmedabad
+Pooja Joshi,RetailHub,pooja.joshi348@retailhub.com,9902154295,Finance,Bangalore
+Komal Rao,DataBridge,komal.rao572@databridge.com,9368175809,Finance,Hyderabad
+Yash Jain,TechNova Solutions,yash.jain507@technova.com,9779589524,Cybersecurity,Indore
+Swati Mehta,Prime Solutions,swati.mehta705@prime.com,9951320095,Retail,Hyderabad
+Nikhil Mehta,VisionSoft,nikhil.mehta296@visionsoft.com,9137987180,E-commerce,Mumbai
+Nikhil Reddy,InnovateX,nikhil.reddy17@innovatex.com,9183754468,Agriculture,Belagavi
+Rahul Verma,DataBridge,rahul.verma69@databridge.com,9088824056,Software,Bangalore
+Vikram Naik,GreenEnergy,vikram.naik732@greenenergy.com,9442540797,AI,Gurgaon
+Aakash Naik,NextGen Systems,aakash.naik400@nextgen.com,9161905398,Energy,Jaipur
+Nisha Naik,Prime Solutions,nisha.naik872@prime.com,9389712246,Cybersecurity,Indore
+Komal Jain,NextGen Systems,komal.jain722@nextgen.com,9232811343,Software,Pune
+Neha Shetty,FutureTech,neha.shetty721@futuretech.com,9581772409,Healthcare,Surat
+Varun Mehta,AIWorks,varun.mehta22@aiworks.com,9100707452,Manufacturing,Kolkata
+Yash Nair,LogiTrans,yash.nair875@logitrans.com,9630833605,Energy,Jaipur
+Varun Desai,TechNova Solutions,varun.desai321@technova.com,9944960008,Retail,Jaipur
+Kavya Verma,CyberSecure,kavya.verma329@cybersecure.com,9950798931,Agriculture,Pune
+Tanvi Rao,FinEdge Capital,tanvi.rao14@finedge.com,9620103773,Software,Nagpur
+Neha Kulkarni,SmartRetail,neha.kulkarni868@smartretail.com,9736793377,AI,Hubli
+Vikram Rao,FutureTech,vikram.rao282@futuretech.com,9949694830,Software,Gurgaon
+Manish Kumar,AgroTech,manish.kumar350@agrotech.com,9941750768,Retail,Mysore
+Sanjay Naik,AgroTech,sanjay.naik374@agrotech.com,9215393517,Logistics,Nagpur

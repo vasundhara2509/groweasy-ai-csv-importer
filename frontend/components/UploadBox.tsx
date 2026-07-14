@@ -30,6 +30,9 @@ export default function UploadBox({ onDataParsed }: UploadBoxProps) {
       complete: (results) => {
         const parsedData = results.data as any[];
 
+        console.log("CSV Parsed Successfully:");
+        console.log(parsedData);
+
         setCsvData(parsedData);
         onDataParsed(parsedData);
       },
@@ -45,29 +48,59 @@ export default function UploadBox({ onDataParsed }: UploadBoxProps) {
     try {
       setLoading(true);
 
+      console.log("Sending CSV to Backend...");
+      console.log(csvData);
+
       const response = await axios.post(
         "http://localhost:5000/import",
         {
           data: csvData,
+        },
+        {
+          timeout: 60000,
+          headers: {
+            "Content-Type": "application/json",
+          },
         }
       );
+
+      console.log("Backend Response:");
+      console.log(response.data);
 
       setLoading(false);
 
       if (response.data.success) {
         setAiResult(response.data.aiResponse);
       } else {
-        alert(response.data.error);
+        alert(response.data.error || "Unknown backend error.");
       }
+
     } catch (error: any) {
       setLoading(false);
 
+      console.error("========== AXIOS ERROR ==========");
       console.error(error);
 
       if (error.response) {
-        alert(error.response.data.error);
+        console.log("Status:", error.response.status);
+        console.log("Data:", error.response.data);
+
+        alert(
+          "Backend Error:\n\n" +
+          JSON.stringify(error.response.data, null, 2)
+        );
+
+      } else if (error.request) {
+        console.log("No response received from backend.");
+
+        alert(
+          "No response received from backend.\n\n" +
+          "Make sure server.js is running."
+        );
+
       } else {
-        alert("Cannot connect to backend.");
+        console.log(error.message);
+        alert(error.message);
       }
     }
   };
@@ -126,7 +159,8 @@ export default function UploadBox({ onDataParsed }: UploadBoxProps) {
           </h2>
         </div>
       )}
-            {aiResult && (
+
+      {aiResult && (
         <AIResultTable aiResult={aiResult} />
       )}
     </>
