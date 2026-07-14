@@ -174,9 +174,13 @@ ${JSON.stringify(batch)}
 
 app.post("/import", async (req, res) => {
 
+    console.log("========== IMPORT ROUTE HIT ==========");
+
   try {
 
     const { data } = req.body;
+
+    console.log("Received rows:", data?.length);
 
     if (!data || !Array.isArray(data) || data.length === 0) {
 
